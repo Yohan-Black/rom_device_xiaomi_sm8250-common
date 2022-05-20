@@ -123,6 +123,7 @@ public final class DozeUtils {
 
     public static boolean sensorsEnabled(Context context) {
         return isPickUpEnabled(context);
+    }
         
     public static boolean isRaiseToWakeEnabled(Context context) {
         return isGestureEnabled(context, GESTURE_RAISE_TO_WAKE_KEY);
