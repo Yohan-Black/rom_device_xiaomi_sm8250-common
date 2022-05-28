@@ -28,4 +28,8 @@
     <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/bms/charge_full</string>
     <string name="config_batteryDesignCapacity">/sys/class/power_supply/bms/charge_full_design</string>
     <string name="config_batteryChargeCycles">/sys/class/power_supply/bms/cycle_count</string>
+    
+    <!-- Maintainer info -->
+    <string name="config_maintainer_name">Yohan_Black</string>
+    <string name="config_maintainer_link">https://t.me/Yohan_Black</string>
 </resources>
